@@ -1,0 +1,1 @@
+primeira coisa ISTO NÃO FOI TESTADO!!!segundo este VPM é capaz de mudar e criptografar o ip da sua rede wi-fi desde que você execute seu executável como adiministrador além disso ele muda MUDA de verdade seu IP não só engana em cada 5 em 5 minutos e sim volta quando fecha mas ainda não foi testado veja mais no arquivo ZIP
